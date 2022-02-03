@@ -18,7 +18,7 @@ I am **web 3.0** enthusiast and **javascript developer**. I am passionate about 
 
 ### ⚙ Development Tools
 
-<img align="left" alt="VS Code logo" width="50px" src="https://yt3.ggpht.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj" />
+<img align="left" alt="VS Code logo" width="50px" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-svg-vector.svg" />
 <img align="left" alt="Git logo" width="50px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
 <img align="left" alt="Github logo" width="50px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png">
 <img align="left" alt="NPM logo" width=50px" src="https://authy.com/wp-content/uploads/npm-logo.png" />
