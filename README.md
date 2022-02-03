@@ -13,7 +13,7 @@ I am **web 3.0** enthusiast and **javascript developer**. I am passionate about 
 <img align="left" alt="Javascript logo" width="50px" src="https://img.icons8.com/color/344/javascript--v1.png" />
 <img align="left" alt="React logo" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5sfZORSHIqvqMrviTOvNUfz5KPp4zdbnVuamgVje_bW5xRr8IAqMoYBYCmCKL5GmBntA&usqp=CAU" />
 <img align="left" alt="Node logo" width="50px" src="https://www.pngfind.com/pngs/m/683-6833893_node-js-logo-png-transparent-png.png" /> 
-<img align="left" alt="MongoDB logo" width="50px" src="https://www.pngitem.com/pimgs/m/197-1973678_mongodb-icon-hd-png-download.png" />
+<img align="left" alt="MongoDB logo" width="50px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
 <img alt="Netlify logo" width="45px" src="https://pbs.twimg.com/profile_images/1413544188411482112/61xGHyIi_400x400.jpg" />
 
 ### ⚙ Development Tools
