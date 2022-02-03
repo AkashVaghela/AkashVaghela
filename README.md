@@ -9,7 +9,7 @@ I am **web 3.0** enthusiast and **javascript developer**. I am passionate about 
 <img alt="CSS3 logo" width="50px" src="https://img.icons8.com/color/452/css3.png">
 <img alt="SASS logo" width="50px" src="https://img.icons8.com/color/344/sass.png">
 <img alt="Javascript logo" width="50px" src="https://img.icons8.com/color/344/javascript--v1.png">
-<img alt="React logo" width="50px" src="https://banner2.cleanpng.com/20180604/pol/kisspng-react-javascript-angularjs-ionic-atom-5b154be6709500.6532453515281223424611.jpg" >
+<img alt="React logo" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5sfZORSHIqvqMrviTOvNUfz5KPp4zdbnVuamgVje_bW5xRr8IAqMoYBYCmCKL5GmBntA&usqp=CAU" >
                                                                                                 
 ### ⚙ Tools
 
