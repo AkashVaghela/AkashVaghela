@@ -5,8 +5,8 @@ I am **web 3.0** enthusiast and **javascript developer**. I am passionate about 
 
 ### 👩🏻‍💻 My Tech. stack
 
-<img alt="HTML5 logo" width="50px"  src="https://img.icons8.com/color/344/html-5--v1.png" />
-<img alt="CSS3 logo" width="50px" src="https://img.icons8.com/color/452/css3.png" />
+<img align="left" alt="HTML5 logo" width="50px"  src="https://img.icons8.com/color/344/html-5--v1.png" />
+<img align="left" alt="CSS3 logo" width="50px" src="https://img.icons8.com/color/452/css3.png" />
 <img alt="Tailwind CSS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />
 <img alt="SASS logo" width="50px" src="https://img.icons8.com/color/344/sass.png" />
 <img alt="Javascript logo" width="50px" src="https://img.icons8.com/color/344/javascript--v1.png" />
