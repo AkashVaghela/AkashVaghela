@@ -8,13 +8,13 @@ I am **web 3.0** enthusiast and **javascript developer**. I am passionate about 
 
 <img align="left" alt="HTML5 logo" width="50px"  src="https://img.icons8.com/color/344/html-5--v1.png" />
 <img align="left" alt="CSS3 logo" width="50px" src="https://img.icons8.com/color/452/css3.png" />
-<img alt="Tailwind CSS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />
+<img align="left" alt="Tailwind CSS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />
 <img align="left" alt="SASS logo" width="50px" src="https://img.icons8.com/color/344/sass.png" />
 <img align="left" alt="Javascript logo" width="50px" src="https://img.icons8.com/color/344/javascript--v1.png" />
 <img align="left" alt="React logo" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5sfZORSHIqvqMrviTOvNUfz5KPp4zdbnVuamgVje_bW5xRr8IAqMoYBYCmCKL5GmBntA&usqp=CAU" />
 <img align="left" alt="Node logo" width="50px" src="https://www.pinclipart.com/picdir/middle/102-1024697_related-wallpapers-node-js-logo-png-clipart.png" /> 
 <img align="left" alt="MongoDB logo" width="50px" src="https://www.pngitem.com/pimgs/m/197-1973678_mongodb-icon-hd-png-download.png" />
-<img align="left" alt="Netlify logo" width="50px" src="https://pbs.twimg.com/profile_images/1413544188411482112/61xGHyIi_400x400.jpg" />
+<img alt="Netlify logo" width="50px" src="https://pbs.twimg.com/profile_images/1413544188411482112/61xGHyIi_400x400.jpg" />
 
 ### ⚙ Development Tools
 
@@ -25,6 +25,6 @@ I am **web 3.0** enthusiast and **javascript developer**. I am passionate about 
 <img align="left" alt="webpack logo" width="50px" src="https://webpack.js.org/icon-pwa-512x512.d3dae4189855b3a72ff9.png" />
 <img align="left" alt="NPM logo" width=50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1280px-Npm-logo.svg.png" />
 <img align="left" alt="Gitbash logo" width="50px" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png" />
-<img align="left" alt="Adobe XD logo" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/PostCSS_Logo.svg/790px-PostCSS_Logo.svg.png" />
+<img alt="Adobe XD logo" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/PostCSS_Logo.svg/790px-PostCSS_Logo.svg.png" />
   
 ### 💌 Get in touch!
