@@ -15,9 +15,9 @@ I am **web 3.0** enthusiast and **javascript developer**. I am passionate about 
 ### ⚙ Tools
 
 <img alt="Git logo" width="50px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png">
-<img alt="Github logo" width="50px" src="https://img.favpng.com/22/23/23/social-media-github-computer-icons-logo-png-favpng-ari7E0gHBmTSMg57C3wKYxCMb.jpg">
+<img alt="Github logo" width="60px" src="https://img.favpng.com/22/23/23/social-media-github-computer-icons-logo-png-favpng-ari7E0gHBmTSMg57C3wKYxCMb.jpg">
 <img alt="VS Code logo" width="50px" src="https://yt3.ggpht.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj">
-<img alt="NPM logo" width=50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1280px-Npm-logo.svg.png">
+<img alt="NPM logo" width=60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1280px-Npm-logo.svg.png">
 <img alt="Gitbash logo" width="50px" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png">
                                                                                                                   
 ### 💌 Get in touch!
