@@ -6,6 +6,6 @@ I am **web 3.0** enthusiast and **javascript developer**. I am passionate about 
 ### 👩🏻‍💻 My Tech. stack
 
 ### ⚙ Tools
-https://iconscout.com/3d/html-4387638
+<img src="https://iconscout.com/3d/html-4387638">
 
 ### 💌 Get in touch!
