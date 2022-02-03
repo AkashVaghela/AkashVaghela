@@ -10,7 +10,7 @@ I am **web 3.0** enthusiast and **javascript developer**. I am passionate about 
 <img alt="SASS logo" width="50px" src="https://img.icons8.com/color/344/sass.png">
 <img alt="Javascript logo" width="50px" src="https://img.icons8.com/color/344/javascript--v1.png">
 <img alt="React logo" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5sfZORSHIqvqMrviTOvNUfz5KPp4zdbnVuamgVje_bW5xRr8IAqMoYBYCmCKL5GmBntA&usqp=CAU" >
-<img alt="Node logo" width="50px" src="https://www.pinclipart.com/picdir/middle/102-1024697_related-wallpapers-node-js-logo-png-clipart.png"> 
+<img alt="Node logo" width="60px" src="https://www.pinclipart.com/picdir/middle/102-1024697_related-wallpapers-node-js-logo-png-clipart.png"> 
 
 ### ⚙ Tools
 
