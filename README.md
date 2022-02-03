@@ -6,6 +6,6 @@ I am **web 3.0** enthusiast and **javascript developer**. I am passionate about 
 ### 👩🏻‍💻 My Tech. stack
 
 ### ⚙ Tools
-<img src="https://img.icons8.com/color/344/html-5--v1.png">
+<img alt="HTML5 logo" width="35px"  src="https://img.icons8.com/color/344/html-5--v1.png">
 
 ### 💌 Get in touch!
