@@ -1,6 +1,7 @@
 ### Hey 👋,
 
-# I'm Akash !
+# I'm Akash!
+## A frontend developer...
 
 I am **web 3.0** enthusiast and **javascript developer**. I am passionate about web technologies and love to learn new things about it.
 
