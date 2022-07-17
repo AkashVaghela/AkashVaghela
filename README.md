@@ -1,6 +1,6 @@
 ### Hey 👋,
 
-<h1>I'm Akash!</h1>
+<h1 style="border: none">I'm Akash!</h1>
 <h2>A frontend developer... </h2>
 
 I am **web 3.0** enthusiast and **javascript developer**. I am passionate about web technologies and love to learn new things about it.
