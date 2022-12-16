@@ -1,29 +1,13 @@
-### Hey 👋,
+<h1 align="center">Hi 👋, I'm Akash</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
-<h1 style="border: none">I'm Akash!</h1>
-<h2>A frontend developer... </h2>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-I am **web 3.0** enthusiast and **javascript developer**. I am passionate about web technologies and love to learn new things about it.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-### 👩🏻‍💻 My Tech. stack
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashvaghela&show_icons=true&locale=en" alt="akashvaghela" /></p>
 
-<img align="left" alt="HTML5 logo" width="50px"  src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" />
-<img align="left" alt="CSS3 logo" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Devicon-css3-plain.svg/1200px-Devicon-css3-plain.svg.png" />
-<img align="left" alt="Tailwind CSS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />
-<img align="left" alt="SASS logo" width="50px" src="https://img.icons8.com/color/344/sass.png" />
-<img align="left" alt="Javascript logo" width="50px" src="https://img.icons8.com/color/344/javascript--v1.png" />
-<img align="left" alt="React logo" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5sfZORSHIqvqMrviTOvNUfz5KPp4zdbnVuamgVje_bW5xRr8IAqMoYBYCmCKL5GmBntA&usqp=CAU" />
-<!-- <img align="left" alt="Node logo" width="50px" src="https://www.pngfind.com/pngs/m/683-6833893_node-js-logo-png-transparent-png.png" /> 
-<img align="left" alt="MongoDB logo" width="50px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" /> -->
-<img alt="Netlify logo" width="45px" src="https://pbs.twimg.com/profile_images/1413544188411482112/61xGHyIi_400x400.jpg" />
-
-### ⚙ Development Tools
-
-<img align="left" alt="VS Code logo" width="50px" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-svg-vector.svg" />
-<img align="left" alt="Git logo" width="50px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
-<img align="left" alt="Github logo" width="50px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png">
-<img align="left" alt="NPM logo" width=50px" src="https://authy.com/wp-content/uploads/npm-logo.png" />
-<img align="left" alt="PostCSS logo" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/PostCSS_Logo.svg/790px-PostCSS_Logo.svg.png">
-<!-- <img align="left" alt="webpack logo" width="50px" src="https://webpack.js.org/icon-pwa-512x512.d3dae4189855b3a72ff9.png" /> -->
-<img align="left" alt="Gitbash logo" width="50px" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png" />
-<img alt="Adobe XD logo" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashvaghela&" alt="akashvaghela" /></p>
