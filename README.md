@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">a full stack developer</h3>
 
-- 🌱 I’m currently learning **Databases, Python, ML & Data visualization**
+- 🌱 I’m currently learning **Python, ML & Data visualization**
 
-- 💬 Ask me about **React, JS, CSS, HTML**
+- 💬 Ask me about **HTML, CSS, JS, React, Next, Node, Express, PostgreSQL, MongoDB**
 
 - 📫 How to reach me **akashvaghela.dev@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
