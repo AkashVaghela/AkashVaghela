@@ -15,7 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashVaghela&layout=compact)](https://github.com/AkashVaghela/github-readme-stats)
 
-[![Akash's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AkashVaghela&layout=compact)](https://github.com/AkashVaghela/github-readme-stats)
+[![Akash's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AkashVaghela)](https://github.com/AkashVaghela/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashvaghela&show_icons=true&locale=en" alt="akashvaghela" /></p>
 
