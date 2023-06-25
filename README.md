@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">a full stack developer</h3>
+<!-- <h3 align="center">a full stack developer</h3> -->
+<h3 align="center">a frontend developer</h3>
 
 - 🌱 I’m currently learning **Python, ML & Data visualization**
 
