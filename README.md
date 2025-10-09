@@ -16,7 +16,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 💼 **3+ years** of experience building modern web applications
+- 💼 **4 years** of experience building modern web applications
 - 💬 Ask me about **JavaScript, React, Next.js, NestJS, Angular**
 - ⚡ I integrate **AI APIs** (like ChatGPT) into web applications
 - 🎯 Focused on **SEO**, **performance optimization**, and **scalable architecture**
