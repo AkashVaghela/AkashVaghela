@@ -2,13 +2,10 @@
 <h3 align="center">🚀 Full-Stack Developer | MEAN & MERN Expert | SEO & Performance Expert</h3>
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~01c39a96777ddd7d99?mp_source=share">
-    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-brightgreen?style=flat-square&logo=upwork" />
-  </a>
   <a href="https://www.linkedin.com/in/akashvagheladev">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
   </a>
-    <a href="mailto:akashvaghela.dev@gmail.com">
+    <a href="mailto:akashvaghela.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-akashvaghela.dev%40gmail.com-red?style=flat-square&logo=gmail" />
   </a>
 </p>
@@ -58,7 +55,6 @@
 
 ## 📫 Let's Connect
 <p>
+  <a href="mailto:akashvaghela.work@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/akashvagheladev"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.upwork.com/freelancers/~01c39a96777ddd7d99?mp_source=share"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-brightgreen?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-  <a href="mailto:akashvaghela.dev@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
