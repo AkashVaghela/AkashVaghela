@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akash Vaghela</h1>
-<h3 align="center">🚀 Full-Stack Developer | MEAN & MERN Expert | SEO & Performance Expert</h3>
+<h3 align="center">Full Stack Developer | Node.js | NestJS | Next.js | React | Angular </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akashvagheladev">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
   </a>
-    <a href="mailto:akashvaghela.work@gmail.com">
+  <a href="mailto:akashvaghela.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-akashvaghela.work%40gmail.com-red?style=flat-square&logo=gmail" />
   </a>
 </p>
@@ -13,10 +13,9 @@
 ---
 
 ## 🧑‍💻 About Me
-- 💼 **4 years** of experience building modern web applications
-- 💬 Ask me about **JavaScript, React, Next.js, NestJS, Angular**
-- ⚡ I integrate **AI APIs** (like ChatGPT) into web applications
-- 🎯 Focused on **SEO**, **performance optimization**, and **scalable architecture**
+- 🏗️ I’ve worked on **real-time manufacturing systems** and **data-driven platforms** — building **complex, scalable, and high-performance** web apps that process and visualize live data efficiently.  
+- ⚙️ Experienced across **React, Angular, Node.js, and NestJS**, with a strong focus on **performance, security, usability, and scalability** — ensuring every project runs fast, looks great, and grows smoothly.  
+- 🌍 Outside of coding, I love exploring **geopolitics** and keeping up with the adventures in **One Piece** ☠️🍜.
 
 ---
 
@@ -24,37 +23,15 @@
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,redux,angular" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,jquery,materialui,redux,bootstrap,sass,tailwind,css,html" />
 </p>
 
-### **Backend**
+### **Backend & Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,rabbitmq,jest,postgres,mysql,firebase,mongodb,redis" />
 </p>
 
-### **Databases**
+### **DevOps & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase" />
-</p>
-
-### **Tools & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,bash,figma,postman" />
-</p>
-
----
-
-## 📌 Key Highlights
-- **Frontend**: Built SEO-optimized PWAs using React, Next.js, Angular  
-- **Backend**: Designed secure REST APIs with NestJS (RBAC, JWT, WebSockets)  
-- **Database**: Expertise in PostgreSQL, MySQL, MongoDB, Redis  
-- **Integrations**: AI APIs, MQTT, Node-RED, push notifications  
-- **Performance**: Core Web Vitals optimization, scalable architectures  
-
----
-
-## 📫 Let's Connect
-<p>
-  <a href="mailto:akashvaghela.work@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/akashvagheladev"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,githubactions,gitlab,vercel,grafana,sentry,postman,figma,notion,npm,yarn" />
 </p>
