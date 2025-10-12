@@ -13,9 +13,9 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🏗️ I’ve worked on **real-time manufacturing systems** and **data-driven platforms** — building **complex, scalable, and high-performance** web apps that process and visualize live data efficiently.  
-- ⚙️ Experienced across **React, Angular, Node.js, and NestJS**, with a strong focus on **performance, security, usability, and scalability** — ensuring every project runs fast, looks great, and grows smoothly.  
-- 🌍 Outside of coding, I love exploring **geopolitics** and keeping up with the adventures in **One Piece** ☠️🍜.
+🧑‍💻 I’ve worked on **real-time manufacturing systems** and **data-driven platforms** — building **complex, scalable, and high-performance** web apps that process and visualize live data efficiently.  
+⚙️ Experienced across **React, Angular, Node.js, and NestJS**, with a strong focus on **performance, security, usability, and scalability** — ensuring every project runs fast, looks great, and grows smoothly.  
+🌍 Outside of coding, I love exploring **geopolitics** and keeping up with the adventures in **One Piece** ☠️🍜.
 
 ---
 
