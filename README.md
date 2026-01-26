@@ -13,8 +13,7 @@
 ---
 
 ## 🧑‍💻 About Me
-🧑‍💻 I’ve worked on **real-time manufacturing systems** and **data-driven platforms** — building **complex, scalable, and high-performance** web apps that process and visualize live data efficiently.  
-⚙️ Experienced across **NestJS and ReactJS**, with a strong focus on **performance, security, usability, and scalability** — ensuring every project runs fast, looks great, and grows smoothly.  
+🧑‍💻 Full stack developer with experience in frontend and backend development using TypeScript, JavaScript, React, NestJS, and SQL.
 🌍 Outside of coding, I love exploring **geopolitics** and keeping up with the adventures in **One Piece** ☠️🍜.
 
 ---
@@ -23,15 +22,15 @@
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,jquery,materialui,redux,bootstrap,sass,tailwind,css,html" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,materialui,redux,css,tailwind,bootstrap,sass,html" />
 </p>
 
 ### **Backend & Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,graphql,rabbitmq,jest,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,jest,postgres,mysql" />
 </p>
 
 ### **DevOps & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=ubuntu,docker,git,github,gitlab,vercel,postman,figma,notion,npm,yarn" />
+  <img src="https://skillicons.dev/icons?i=ubuntu,docker,git,github,gitlab,vercel,postman,figma,npm,yarn" />
 </p>
